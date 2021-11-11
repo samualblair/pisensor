@@ -3,8 +3,8 @@ Sensor Configurations for Using Grove Pi board on Rasberry Pi
 
 
 # Using GPLv3 License (if valid)
-# Original code derived from grove Examples, which used MIT license.
-# TODO: confirm GPLv3 is valid for this repo.
+Original code derived from grove Examples, which used MIT license.
+TODO: confirm GPLv3 is valid for this repo.
 
 
 
