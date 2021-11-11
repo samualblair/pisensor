@@ -1,11 +1,13 @@
 # pisensor
 Sensor Configurations for Using Grove Pi board on Rasberry Pi
 
+Right now Repo only relates to these senors:
+Temp and Humidity
+O2
 
 # Using GPLv3 License (if valid)
 Original code derived from grove Examples, which used MIT license.
 TODO: confirm GPLv3 is valid for this repo.
-
 
 
 
@@ -40,14 +42,14 @@ THE SOFTWARE.
 '''
 
 # NOTE:
-# There are 5 gas sensors
-# MQ2 - Combustible Gas, Smoke
-# MQ3 - Alcohol Vapor
-# MQ5 - LPG, Natural Gas, Town Gas
-# MQ9 - Carbon Monoxide, Coal Gas, Liquefied Gas
-# 02 - Oxygen
-# The sensitivity can be adjusted by the onboard potentiometer
-#
-# http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor
-# http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ5)
-# http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(O%E2%82%82)
+ There are 5 gas sensors
+ MQ2 - Combustible Gas, Smoke
+ MQ3 - Alcohol Vapor
+ MQ5 - LPG, Natural Gas, Town Gas
+ MQ9 - Carbon Monoxide, Coal Gas, Liquefied Gas
+ 02 - Oxygen
+ The sensitivity can be adjusted by the onboard potentiometer
+
+http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor
+http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(MQ5)
+http://www.seeedstudio.com/wiki/Grove_-_Gas_Sensor(O%E2%82%82)
