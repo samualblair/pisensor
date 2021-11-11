@@ -1,0 +1,29 @@
+screen
+./mj-temp-log.py
+Cntr+A , then D
+
+
+screen
+./mj-o2-log.py
+Cntr+A , then D
+
+
+screen
+telegraf --config temperatureLog.conf
+Cntr+A , then D
+
+screen
+telegraf --config o2.conf
+Cntr+A , then D
+
+
+screen
+telegraf --config all.conf
+Cntr+A , then D
+
+
+
+mj-all-log.py3
+mj-o2-log.py
+mj-temp-log.py
+
